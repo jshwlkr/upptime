@@ -5,8 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: jshwlkr.info
     url: https://jshwlkr.info
+  - name: Ansible
+    url: https://ansible.jshwlkr.info/
   - name: MadeinA2
     url: https://madeina2.com/
+  - name: PlayYourPride
+    url: https://playyourpride.com/
+  - name: UMSI.club
+    url: https://umsi.club/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
