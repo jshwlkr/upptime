@@ -58,18 +58,19 @@
     "url": "https://playyourpride.com/",
     "icon": "https://favicons.githubusercontent.com/playyourpride.com",
     "slug": "play-your-pride",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 331,
-    "timeDay": 143,
+    "timeDay": 174,
     "timeWeek": 312,
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2022-03-23": 0,
       "2022-03-22": 41,
       "2022-03-21": 19
     }
