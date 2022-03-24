@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 188,
-    "timeWeek": 413,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 386,
+    "timeDay": 158,
+    "timeWeek": 356,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 839,
-    "timeWeek": 1168,
-    "timeMonth": 1218,
-    "timeYear": 1218,
+    "time": 1201,
+    "timeDay": 871,
+    "timeWeek": 1095,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 115,
-    "timeWeek": 209,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 224,
+    "timeDay": 171,
+    "timeWeek": 197,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 373,
-    "timeDay": 738,
-    "timeWeek": 403,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 362,
+    "timeDay": 733,
+    "timeWeek": 381,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2022-03-22": 41,
       "2022-03-21": 19
@@ -80,18 +80,16 @@
     "icon": "https://favicons.githubusercontent.com/umsi.club",
     "slug": "umsi-club",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 382,
-    "timeDay": 87,
-    "timeWeek": 548,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {
-      "2022-03-23": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 76,
+    "timeWeek": 488,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {}
   }
 ]
