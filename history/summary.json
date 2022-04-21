@@ -22,7 +22,7 @@
     "url": "https://ansible.jshwlkr.info/",
     "icon": "https://favicons.githubusercontent.com/ansible.jshwlkr.info",
     "slug": "ansible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1136,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2022-04-21": 0,
       "2022-04-06": 17
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/playyourpride.com",
     "slug": "play-your-pride",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 317,
     "timeDay": 71,
     "timeWeek": 385,
