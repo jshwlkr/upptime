@@ -4,10 +4,10 @@
     "url": "https://jshwlkr.info",
     "icon": "https://favicons.githubusercontent.com/jshwlkr.info",
     "slug": "jshwlkr-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
@@ -15,14 +15,16 @@
     "timeWeek": 425,
     "timeMonth": 382,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-13": 1
+    }
   },
   {
     "name": "Ansible",
     "url": "https://ansible.jshwlkr.info/",
     "icon": "https://favicons.githubusercontent.com/ansible.jshwlkr.info",
     "slug": "ansible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 1105,
     "timeYear": 1142,
     "dailyMinutesDown": {
+      "2022-05-13": 0,
       "2022-04-21": 17,
       "2022-04-06": 17
     }
