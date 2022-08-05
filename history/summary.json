@@ -46,7 +46,7 @@
     "url": "https://madeina2.com/",
     "icon": "https://favicons.githubusercontent.com/madeina2.com",
     "slug": "madein-a2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 231,
     "timeMonth": 210,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-05": 0
+    }
   },
   {
     "name": "PlayYourPride",
