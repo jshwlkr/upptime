@@ -46,11 +46,11 @@
     "url": "https://madeina2.com/",
     "icon": "https://favicons.githubusercontent.com/madeina2.com",
     "slug": "madein-a2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 216,
     "timeDay": 241,
@@ -58,6 +58,7 @@
     "timeMonth": 220,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2022-08-09": 0,
       "2022-08-05": 85
     }
   },
