@@ -24,7 +24,7 @@
     "url": "https://ansible.jshwlkr.info/",
     "icon": "https://favicons.githubusercontent.com/ansible.jshwlkr.info",
     "slug": "ansible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1114,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-05-13": 27,
       "2022-04-21": 17,
       "2022-04-06": 17
