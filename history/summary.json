@@ -79,16 +79,16 @@
     "url": "https://playyourpride.com/",
     "icon": "https://icons.duckduckgo.com/ip3/playyourpride.com.ico",
     "slug": "play-your-pride",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "39.34%",
-    "uptimeWeek": "53.66%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "99.11%",
-    "time": 478,
-    "timeDay": 370,
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "41.03%",
+    "uptimeWeek": "53.95%",
+    "uptimeMonth": "89.40%",
+    "uptimeYear": "99.12%",
+    "time": 479,
+    "timeDay": 384,
     "timeWeek": 622,
-    "timeMonth": 629,
+    "timeMonth": 630,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2023-10-06": 725,
@@ -98,7 +98,7 @@
       "2023-10-02": 562,
       "2023-10-01": 702,
       "2023-09-30": 683,
-      "2023-09-29": 51
+      "2023-09-29": 21
     }
   },
   {
