@@ -77,11 +77,11 @@
     "url": "https://playyourpride.com/",
     "icon": "https://icons.duckduckgo.com/ip3/playyourpride.com.ico",
     "slug": "play-your-pride",
-    "status": "up",
+    "status": "down",
     "uptime": "93.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.40%",
+    "uptimeMonth": "27.26%",
     "uptimeYear": "88.85%",
     "time": 487,
     "timeDay": 510,
@@ -89,6 +89,7 @@
     "timeMonth": 665,
     "timeYear": 501,
     "dailyMinutesDown": {
+      "2023-11-25": 0,
       "2023-11-16": 590,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -133,7 +134,7 @@
       "2023-10-06": 819,
       "2023-10-05": 729,
       "2023-10-04": 686,
-      "2023-10-03": 490
+      "2023-10-03": 471
     }
   },
   {
@@ -142,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/umsi.club.ico",
     "slug": "umsi-club",
     "status": "down",
-    "uptime": "94.43%",
+    "uptime": "94.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.42%",
+    "uptimeYear": "90.35%",
     "time": 370,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-11-25": 28,
+      "2023-11-25": 405,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
