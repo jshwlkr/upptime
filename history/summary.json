@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 270,
-    "timeDay": 254,
-    "timeWeek": 189,
-    "timeMonth": 245,
-    "timeYear": 249,
+    "timeDay": 868,
+    "timeWeek": 284,
+    "timeMonth": 265,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2023-10-27": 20,
       "2023-07-26": 39,
@@ -39,10 +39,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 939,
-    "timeDay": 796,
-    "timeWeek": 730,
-    "timeMonth": 706,
-    "timeYear": 823,
+    "timeDay": 787,
+    "timeWeek": 752,
+    "timeMonth": 711,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-11-14": 18,
       "2023-10-25": 21,
@@ -62,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 311,
-    "timeWeek": 237,
-    "timeMonth": 232,
+    "timeDay": 101,
+    "timeWeek": 241,
+    "timeMonth": 228,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2023-10-03": 25,
@@ -78,17 +78,16 @@
     "slug": "play-your-pride",
     "status": "up",
     "uptime": "93.65%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "63.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "65.85%",
     "uptimeYear": "88.85%",
     "time": 496,
-    "timeDay": 458,
-    "timeWeek": 512,
-    "timeMonth": 1022,
+    "timeDay": 424,
+    "timeWeek": 493,
+    "timeMonth": 998,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-12-05": 12,
       "2023-11-16": 590,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
@@ -133,7 +132,7 @@
       "2023-10-06": 819,
       "2023-10-05": 729,
       "2023-10-04": 686,
-      "2023-10-03": 471
+      "2023-10-03": 490
     }
   },
   {
@@ -142,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/umsi.club.ico",
     "slug": "umsi-club",
     "status": "down",
-    "uptime": "92.90%",
+    "uptime": "92.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.58%",
+    "uptimeYear": "87.41%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-12-05": 591,
+      "2023-12-06": 31,
+      "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -199,8 +199,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1295,
-      "2022-12-15": 22,
-      "2022-12-06": 24
+      "2022-12-15": 22
     }
   }
 ]
