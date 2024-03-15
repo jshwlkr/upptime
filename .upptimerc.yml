@@ -7,6 +7,8 @@ sites:
     url: https://jshwlkr.info
   - name: Ansible
     url: https://ansible.jshwlkr.info/
+  - name: Memex
+    url: https://memex.jshwlkr.info/
   - name: MadeinA2
     url: https://madeina2.com/
 
