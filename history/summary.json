@@ -26,9 +26,9 @@
     "url": "https://ansible.jshwlkr.info/",
     "icon": "https://icons.duckduckgo.com/ip3/ansible.jshwlkr.info.ico",
     "slug": "ansible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 764,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2025-07-31": 0,
       "2025-02-26": 21
     }
   },
