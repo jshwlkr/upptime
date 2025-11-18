@@ -83,19 +83,19 @@
     "url": "https://madeina2.com/",
     "icon": "https://icons.duckduckgo.com/ip3/madeina2.com.ico",
     "slug": "madein-a2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 291,
-    "timeDay": 139,
-    "timeWeek": 185,
-    "timeMonth": 191,
+    "timeDay": 152,
+    "timeWeek": 184,
+    "timeMonth": 190,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 60,
       "2025-10-08": 18
     }
   }
